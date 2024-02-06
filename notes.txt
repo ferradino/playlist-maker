@@ -1,0 +1,19 @@
+Links:
+- https://developer.spotify.com/
+- https://pkg.go.dev/github.com/zmb3/spotify/v2#section-readme
+- https://github.com/golang-standards/project-layout
+
+TODO list:
+- Set up account with Spotify's api
+- Determine how to connect with the api
+- Test around the functinality of the api and see what we can do with it
+- First, create and add songs to Playlist
+- Second, get user info with top tracks
+- Third, add specific songs to playlist based on user's listing history
+- Fourth, generate recommondations for songs to add
+    - Maybe even send an email with song recommondations?
+    - Or even just create a recommondation playlist
+
+Extras:
+- Create multiple playlist based off of genre
+- Have one big playlist with most listened songs from each genre playlist?
