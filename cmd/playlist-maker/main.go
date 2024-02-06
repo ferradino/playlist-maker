@@ -1,8 +1,10 @@
 package main
 
-import "fmt"
+import (
+    "github.com/ferradino/playlist-maker/internal/router"
+)
 
 func main() {
-    fmt.Println("Hello, World!")
-    fmt.Println("Working on laptop as well!")
+    router.CreateServer()
 }
+
